@@ -1,4 +1,4 @@
-# Ai-Voice-Assistant-App-With-Flutter
+# 🤖 AI Assistant – Flutter App
 
 This Flutter-based AI Assistant lets users chat with AI through voice 🎙️ or text 💬 — and the best part is, you can connect your own API key for full flexibility.
 
